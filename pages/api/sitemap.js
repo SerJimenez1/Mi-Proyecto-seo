@@ -1,6 +1,6 @@
 import { posts, staticPages } from "../../data/posts";
 
-const BASE_URL = "https://mi-sitio.com"; // lo actualizaremos con tu dominio real al desplegar
+const BASE_URL = "https://mi-proyecto-seo-nine.vercel.app";
 
 export default async function handler(req, res) {
   // Combina rutas fijas con rutas generadas dinámicamente desde los "datos" del CMS/BD

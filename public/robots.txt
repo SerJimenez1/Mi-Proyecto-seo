@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://mi-sitio.com/api/sitemap
+Sitemap: https://mi-proyecto-seo-nine.vercel.app/api/sitemap
